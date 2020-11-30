@@ -1,7 +1,7 @@
 import { combineReducers } from 'redux';
 
-import user from './User';
+import flight from './Flight';
 
-const reducers = combineReducers({ user });
+const reducers = combineReducers({ flight });
 
 export default reducers;

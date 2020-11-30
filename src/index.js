@@ -6,7 +6,6 @@ import App from './Root/App';
 import store from './Config/store';
 
 import './index.scss';
-import './Config/Initializers/moment';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
